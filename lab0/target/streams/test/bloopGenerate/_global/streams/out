@@ -1,0 +1,4 @@
+[debug] [lab0-test] Classpath dependencies List()
+[debug] [lab0-test] Dependencies from configurations List(lab0)
+[debug] Bloop wrote the configuration of project 'lab0-test' to '/home/lanxuan/hkust/ppl/lab0/.bloop/lab0-test.json'
+[success] Generated .bloop/lab0-test.json

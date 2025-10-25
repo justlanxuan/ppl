@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(a63cc714-07d0-4e13-a2f1-e627a0ab5148), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/lanxuan/hkust/ppl/lab0/target/scala-3.5.0/classes ...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 2 s, completed Sep 20, 2025, 12:36:26 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
