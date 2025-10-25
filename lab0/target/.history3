@@ -14,3 +14,15 @@
 1758344820742:test
 1758344924925::quit
 1758344927370:exit
+1761375301246:test
+1761375381584:compile
+1761375382706:test
+1761375976413:compile
+1761375977467:test
+1761376366600:testOnly -- "--tests=.*max of a few.*"
+1761376400102:testOnly -- "--tests = max"
+1761376429437:testOnly -- "--tests = .*max.*"
+1761376454266:testOnly -- "--tests = .*max of a few.*"
+1761376462914:testOnly -- "--tests =.*max of a few.*"
+1761376480560:testOnly -- "--tests=.*max of a few.*"
+1761376485330:testOnly -- "--tests=.*max.*"

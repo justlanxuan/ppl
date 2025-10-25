@@ -102,9 +102,26 @@ class ListsSuite extends munit.FunSuite:
     assert(sum(List(1, 2, 0)) == 3)
   }
 
+  test("sum of negative numbers"){
+    assertEquals(sum(List(-1,-2,-3)),-6)
+  }
+
+  test("sum of empty list"){
+    assertEquals(sum(List()),0)
+  }
+
   test("max of a few numbers") {
     assert(max(List(3, 7, 2)) == 7)
   }
+
+  test("max of negative numbers"){
+    assertEquals(max(List(-1,-2,-3)), -1)
+  }
+
+  test("max of empty list"){
+    assertEquals(max(List()),0)
+  }
+
 
   import scala.concurrent.duration.*
   override val munitTimeout = 1.seconds

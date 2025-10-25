@@ -3059,3 +3059,39 @@ Sep 20, 2025 1:09:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notif
 INFO: Unsupported notification method: $/setTrace
 2025.09.20 16:16:24 INFO  Shut down connection with build server.
 2025.09.20 16:16:24 INFO  Shut down connection with build server.
+2025.10.25 15:09:27 INFO  Started: Metals version 1.6.3 in folders '/home/lanxuan/hkust/ppl/lab0' for client Visual Studio Code 1.104.1.[0m
+2025.10.25 15:09:28 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2025.10.25 15:09:29 INFO  no build target found for /home/lanxuan/hkust/ppl/lab0/src/test/scala/lab0/ListsSuite.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.10.25 15:09:29 INFO  Attempting to connect to the build server...[0m
+2025.10.25 15:09:29 INFO  Found a Bloop server running[0m
+2025.10.25 15:09:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lanxuan/hkust/ppl/lab0/.metals/bsp.trace.json or /home/lanxuan/.cache/metals/bsp.trace.json[0m
+2025.10.25 15:09:30 INFO  Attempting to connect to the build server...[0m
+2025.10.25 15:09:30 INFO  Found a Bloop server running[0m
+2025.10.25 15:09:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lanxuan/hkust/ppl/lab0/project/.metals/bsp.trace.json or /home/lanxuan/.cache/metals/bsp.trace.json[0m
+2025.10.25 15:09:32 INFO  time: Connected to build server in 2.94s[0m
+2025.10.25 15:09:32 INFO  Connected to Build server: Bloop v2.0.13[0m
+Oct 25, 2025 3:09:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2025.10.25 15:09:34 INFO  compiling lab0 (1 scala source)[0m
+2025.10.25 15:09:36 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2025.10.25 15:09:37 INFO  time: compiled lab0 in 2.97s[0m
+2025.10.25 15:09:37 INFO  compiling lab0-test (1 scala source)[0m
+2025.10.25 15:09:39 INFO  time: compiled lab0-test in 2s[0m
+2025.10.25 15:09:41 INFO  time: indexed workspace in 9.78s[0m
+2025.10.25 15:10:30 INFO  Disconnecting from Bloop session...[0m
+2025.10.25 15:10:30 INFO  Shut down connection with build server.[0m
+2025.10.25 15:10:30 INFO  Shut down connection with build server.[0m
+2025.10.25 15:10:30 INFO  Attempting to connect to the build server...[0m
+2025.10.25 15:10:30 INFO  No running Bloop server found, starting one.[0m
+2025.10.25 15:10:32 INFO  Starting compilation server[0m
+2025.10.25 15:10:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lanxuan/hkust/ppl/lab0/.metals/bsp.trace.json or /home/lanxuan/.cache/metals/bsp.trace.json[0m
+2025.10.25 15:10:33 INFO  Attempting to connect to the build server...[0m
+2025.10.25 15:10:33 INFO  Found a Bloop server running[0m
+2025.10.25 15:10:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lanxuan/hkust/ppl/lab0/project/.metals/bsp.trace.json or /home/lanxuan/.cache/metals/bsp.trace.json[0m
+2025.10.25 15:10:33 INFO  time: Connected to build server in 3.44s[0m
+2025.10.25 15:10:33 INFO  Connected to Build server: Bloop v2.0.16[0m
+2025.10.25 15:10:38 INFO  time: indexed workspace in 4.55s[0m
+2025.10.25 15:10:39 INFO  compiling lab0 (1 scala source)[0m
+2025.10.25 15:10:41 INFO  time: compiled lab0 in 2.27s[0m
+2025.10.25 15:10:41 INFO  compiling lab0-test (1 scala source)[0m
+2025.10.25 15:10:42 INFO  time: compiled lab0-test in 1.19s[0m
