@@ -1,0 +1,12 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(a1b86486-fbf8-4ed0-ad63-d1e152bbd9df), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/lanxuan/hkust/ppl/lab1/target/scala-3.5.0/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E172] Type Error: /home/lanxuan/hkust/ppl/lab1/src/main/scala/lab1/Recursion.scala:34:15 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m34 |[0m          [33mcase[0m Nil => [31mtrue[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m               ^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mValues of types object scala.collection.immutable.Nil and Char cannot be compared with == or !=[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 2 s, completed Oct 26, 2025, 3:12:37 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

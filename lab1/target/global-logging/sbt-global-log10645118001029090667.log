@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(acb5f850-a026-464e-9343-51a47b67c1d1), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/lanxuan/hkust/ppl/lab1/target/scala-3.5.0/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m

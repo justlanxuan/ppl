@@ -5475,3 +5475,67 @@ Exception in thread "pool-1090-thread-1" java.lang.OutOfMemoryError: Java heap s
 2025.09.24 23:25:37 INFO  Shut down connection with build server.[0m
 2025.09.24 23:25:38 INFO  Shut down connection with build server.[0m
 2025.09.24 23:25:37 INFO  Exiting server[0m
+2025.10.26 14:50:50 INFO  Started: Metals version 1.6.3 in folders '/home/lanxuan/hkust/ppl/lab1' for client Visual Studio Code 1.104.1.[0m
+2025.10.26 14:50:50 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2025.10.26 14:50:51 INFO  Attempting to connect to the build server...[0m
+2025.10.26 14:50:51 INFO  Found a Bloop server running[0m
+2025.10.26 14:50:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lanxuan/hkust/ppl/lab1/.metals/bsp.trace.json or /home/lanxuan/.cache/metals/bsp.trace.json[0m
+2025.10.26 14:50:52 INFO  Attempting to connect to the build server...[0m
+2025.10.26 14:50:52 INFO  Found a Bloop server running[0m
+2025.10.26 14:50:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lanxuan/hkust/ppl/lab1/project/.metals/bsp.trace.json or /home/lanxuan/.cache/metals/bsp.trace.json[0m
+2025.10.26 14:50:52 INFO  time: Connected to build server in 0.43s[0m
+2025.10.26 14:50:52 INFO  Connected to Build server: Bloop v2.0.16[0m
+Oct 26, 2025 2:50:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Oct 26, 2025 2:50:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2025.10.26 14:50:54 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2025.10.26 14:50:59 INFO  time: indexed workspace in 7.31s[0m
+2025.10.26 14:50:59 INFO  compiling lab1 (1 scala source)[0m
+2025.10.26 14:50:59 INFO  time: compiled lab1 in 0.93s[0m
+2025.10.26 14:50:59 INFO  compiling lab1-test (1 scala source)[0m
+2025.10.26 14:51:01 INFO  time: compiled lab1-test in 0.82s[0m
+2025.10.26 14:58:02 INFO  compiling lab1 (1 scala source)[0m
+2025.10.26 14:58:03 INFO  time: compiled lab1 in 1s[0m
+2025.10.26 15:01:29 INFO  compiling lab1 (1 scala source)[0m
+2025.10.26 15:01:30 INFO  time: compiled lab1 in 1.03s[0m
+2025.10.26 15:03:16 INFO  compiling lab1 (1 scala source)[0m
+2025.10.26 15:03:16 INFO  time: compiled lab1 in 0.96s[0m
+2025.10.26 15:04:35 INFO  compiling lab1 (1 scala source)[0m
+2025.10.26 15:04:35 INFO  time: compiled lab1 in 0.19s[0m
+2025.10.26 15:04:38 INFO  compiling lab1 (1 scala source)[0m
+2025.10.26 15:04:38 INFO  time: compiled lab1 in 0.25s[0m
+Oct 26, 2025 3:08:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1531
+Oct 26, 2025 3:09:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1990
+Oct 26, 2025 3:10:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2298
+Oct 26, 2025 3:10:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2425
+2025.10.26 15:11:14 INFO  compiling lab1 (1 scala source)[0m
+2025.10.26 15:11:14 INFO  time: compiled lab1 in 0.91s[0m
+2025.10.26 15:11:42 INFO  compiling lab1 (1 scala source)[0m
+2025.10.26 15:11:42 INFO  time: compiled lab1 in 0.28s[0m
+Oct 26, 2025 3:12:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2728
+2025.10.26 15:12:33 INFO  compiling lab1 (1 scala source)[0m
+2025.10.26 15:12:33 INFO  time: compiled lab1 in 0.36s[0m
+2025.10.26 15:13:41 INFO  compiling lab1 (1 scala source)[0m
+2025.10.26 15:13:41 INFO  time: compiled lab1 in 0.34s[0m
+2025.10.26 15:15:41 INFO  compiling lab1 (1 scala source)[0m
+2025.10.26 15:15:42 INFO  time: compiled lab1 in 1.08s[0m
+2025.10.26 15:16:15 INFO  compiling lab1 (1 scala source)[0m
+2025.10.26 15:16:15 INFO  time: compiled lab1 in 0.28s[0m
+2025.10.26 15:16:40 INFO  compiling lab1 (1 scala source)[0m
+2025.10.26 15:16:40 INFO  time: compiled lab1 in 0.36s[0m
+Oct 26, 2025 3:20:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4185
+Oct 26, 2025 3:22:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4928
+Oct 26, 2025 3:22:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5084
+Oct 26, 2025 3:22:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5190
+2025.10.26 15:22:46 INFO  compiling lab1 (1 scala source)[0m
+2025.10.26 15:22:46 INFO  time: compiled lab1 in 0.84s[0m

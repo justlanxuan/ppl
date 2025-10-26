@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/lanxuan/hkust/ppl/lab1/src/main/scala/lab1/Recursion.scala:34:21 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m34 |[0m      [33mcase[0m _ => loop(tail, paras)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                     ^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                   Not found: tail - did you mean main? or perhaps wait?[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
